@@ -29,13 +29,13 @@
 <table align="center">
   <tr>
     <td style="padding: 10px;">
-      <img width="320" height="280" alt="Marketplace Tool" src="ССЫЛКА_НА_CARD1" />
+      <img width="320" height="280" alt="deepseek_svg_20260826_7ec09a" src="https://github.com/user-attachments/assets/fadbecac-d7cd-4e5c-836c-8ce4cc1b4d43" />
     </td>
     <td style="padding: 10px;">
-      <img width="320" height="280" alt="Smart Trading" src="ССЫЛКА_НА_CARD2" />
+      <img width="320" height="280" alt="deepseek_svg_20260826_de18af" src="https://github.com/user-attachments/assets/5cea6393-8abe-4096-99b5-b79c1770acb0" />
     </td>
     <td style="padding: 10px;">
-      <img width="320" height="280" alt="Market Insights" src="ССЫЛКА_НА_CARD3" />
+      <img width="320" height="280" alt="deepseek_svg_20260826_d33ad2" src="https://github.com/user-attachments/assets/444ab5da-e536-4813-9ac5-fed40438e395" />
     </td>
   </tr>
 </table>
